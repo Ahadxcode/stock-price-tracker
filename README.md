@@ -9,4 +9,8 @@ A Python project that fetches stock prices using `yfinance` and plots graphs wit
 - Customizable time period (1mo, 6mo, 1y, etc.)
 - Simple matplotlib line graph
 
+Requirements:
+yfinance
+matplotlib
+pandas
 
